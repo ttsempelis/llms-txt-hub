@@ -1352,6 +1352,15 @@
     "publishedAt": "2026-05-31"
   },
   {
+    "name": "AVT x402 Data Services",
+    "domain": "https://api.aventtech.com",
+    "description": "Machine-payable data & validation APIs for AI agents (x402, USDC on Base): AV/IT device integration knowledge base, IBAN/VAT/phone/card/ISBN/VIN/ISIN validation, DNS & RDAP domain lookups, currency conversion, QR generation. No API keys.",
+    "llmsTxtUrl": "https://api.aventtech.com/llms.txt",
+    "category": "data-analytics",
+    "favicon": "https://www.google.com/s2/favicons?domain=api.aventtech.com&sz=128",
+    "publishedAt": "2026-07-23"
+  },
+  {
     "name": "B & C Industrial Products Inc",
     "domain": "https://bandcip.com/",
     "description": "Casters, Material Handling and Storage Solutions - B & C Industrial Products",
